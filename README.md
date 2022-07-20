@@ -2,9 +2,7 @@
 
 <hr>
 
-It is an e-commerce platform for the registered clients of Lacrima Dairy Industrial Ltd, the leading registered company in the Hashemite Kingdom of Jordan.<br />
-Enjoy the ease & convenience of ordering Làcrima Dairy Industrial Ltd Products for your business needs directly. An e commerce platform for registered Làcrima Dairy Industrial Ltd customers. Also allows you to send registration request & enquiries,
-For Restaurants, Cafes, Hotels, Quick Service Restaurants, Fast Food Outlets, Bakeries & Caterers, GCC wide..
+HR Manger is a mobile application for, It contains the management of the daily bases functions to facilitate the organization staff member’s functions. The app is working on HR as attendance using GPS, leave request, Leave approvals, and same as in missions and permissions. HR Manger is a general ERP mobile application its updates will contain the major system features in the other modules CRM, <br />
 <p><a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
