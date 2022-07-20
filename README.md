@@ -1,4 +1,4 @@
-# Human-Resources
+# Human Resources Manager
 
 <hr>
 
